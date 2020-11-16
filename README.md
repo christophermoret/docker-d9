@@ -6,7 +6,7 @@ Complete articles
 ```
 Clean article display
 ```
-missing the 3 latest news on home page
+Missing the 3 latest news on home page
 
 
 # Drupal project
