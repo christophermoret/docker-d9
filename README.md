@@ -1,7 +1,11 @@
 # Need to fix: 
+```
 Side menu doesnt appear on front page
+```
 Complete articles 
+```
 Clean article display
+```
 missing the 3 latest news on home page
 
 
