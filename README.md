@@ -1,3 +1,10 @@
+# Need to fix: 
+Side menu doesnt appear on front page
+Complete articles 
+Clean article display
+missing the 3 latest news on home page
+
+
 # Drupal project
 
 Cette solution s'appuie sur [docker4drupal](https://github.com/wodby/docker4drupal).
